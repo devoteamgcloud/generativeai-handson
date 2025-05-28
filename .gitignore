@@ -9,9 +9,11 @@ wheels/
 # Virtual environments
 .venv
 
-evaluate.py
-evaluation_set.py
-rag.py
-utils/
+# evaluate.py
+# evaluation_set.py
+# rag.py
+# utils/
 
 *.csv
+create_projects.sh
+.DS_Store
